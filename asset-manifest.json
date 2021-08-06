@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/thecssartist/static/css/main.a617e044.chunk.css",
+    "main.js": "/thecssartist/static/js/main.d98ea3a4.chunk.js",
+    "main.js.map": "/thecssartist/static/js/main.d98ea3a4.chunk.js.map",
+    "runtime-main.js": "/thecssartist/static/js/runtime-main.220518e8.js",
+    "runtime-main.js.map": "/thecssartist/static/js/runtime-main.220518e8.js.map",
+    "static/js/2.30297aa2.chunk.js": "/thecssartist/static/js/2.30297aa2.chunk.js",
+    "static/js/2.30297aa2.chunk.js.map": "/thecssartist/static/js/2.30297aa2.chunk.js.map",
+    "static/js/3.895aa193.chunk.js": "/thecssartist/static/js/3.895aa193.chunk.js",
+    "static/js/3.895aa193.chunk.js.map": "/thecssartist/static/js/3.895aa193.chunk.js.map",
+    "index.html": "/thecssartist/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/thecssartist/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.30297aa2.chunk.js.LICENSE.txt": "/thecssartist/static/js/2.30297aa2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/thecssartist/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.220518e8.js",
+    "static/js/2.30297aa2.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d98ea3a4.chunk.js"
+  ]
+}
